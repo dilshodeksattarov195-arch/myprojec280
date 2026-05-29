@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrelete",
+        "uuid": 141120,
+        "checksum": "dd0x8s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
